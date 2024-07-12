@@ -1,0 +1,4 @@
+Better resource handling for:
+- threads
+- sockets
+- capture
